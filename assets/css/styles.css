@@ -1,0 +1,55 @@
+ 
+.pantallaNegra{
+  margin-top: 5ch;
+  padding-top: 2ch;
+  height: 70%;
+  width: 70%;
+  /*border: 1px solid rgb(40, 207, 18);*/
+  text-align: center;
+  background-color: black;
+  color: rgb(255, 255, 255);
+  display: inline-block;
+}
+
+
+.txtSegundosBig{
+  font-size: 20ch;
+}
+
+
+.contenedorSalidaContador{
+  height: 80%;
+  width: 100%;
+ /* border: 1px solid rgb(197, 32, 32);*/
+}  
+
+.salidaContador{
+  height: 10ch;
+  width:   10ch;
+ /* border: 1px solid rgb(126, 21, 206);*/
+}
+
+.txtIngresaSeg{  
+  text-align: center;
+  padding-top: 2ch;
+  /*border: 1px solid rgb(197, 32, 32);*/
+  width: 100%;
+}
+
+.contenedorInput{
+  text-align: center;
+}
+
+.btn{
+  margin-top: 2ch;
+}
+
+.colPrincipal{
+  text-align: center;
+  
+  background-color: darkgray;
+}
+
+.colfinal{
+  margin-bottom: 2ch;
+}
